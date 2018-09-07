@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898050720135",
+    "firebase_url": "https://fire-chat-d5137.firebaseio.com",
+    "project_id": "fire-chat-d5137",
+    "storage_bucket": "fire-chat-d5137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898050720135:android:7e59e5c7bb18bcd1",
+        "android_client_info": {
+          "package_name": "dk.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898050720135-8g2hl36a57da5992ttk31m53h5j9vh6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.chat",
+            "certificate_hash": "1374488f31d1203f3427e2d0614adeef8cb44a75"
+          }
+        },
+        {
+          "client_id": "898050720135-cpc4mmn2o97ftrn8j6sqioqmttdlm8f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hcKiPqfr26ZOH9OuVZlMhcF1rWa0GW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898050720135-cpc4mmn2o97ftrn8j6sqioqmttdlm8f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
